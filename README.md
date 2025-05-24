@@ -12,7 +12,7 @@ Rather than guessing the language behind the Indus script, HDT focuses on **how*
 📄 **Whitepaper on Zenodo**: https://doi.org/10.5281/zenodo.15496818
 
 📷 Example parse result:  
-![Sample Parse](https://drive.google.com/file/d/1hUBHxVk2lUZHCTYmNTIaivMybwf1-oVZ/view?usp=sharing)  
+(https://drive.google.com/file/d/1hUBHxVk2lUZHCTYmNTIaivMybwf1-oVZ/view?usp=sharing)  
 
 
 ---
